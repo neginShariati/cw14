@@ -1,0 +1,9 @@
+#card{
+    background-color: #0b0b23;
+    border-color: yellow;
+
+}
+#card:hover{
+    background-color: #554b10;
+    transform: scale(1.05);
+    box-shadow:-1px 0px 19px 3px rgb(85,75,16);}
